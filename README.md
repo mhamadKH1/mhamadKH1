@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on several exciting projects.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to programming and technology.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [mhamadkhalid484@gmail.com](mhamadkhalid484@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 #### Languages and Tools
