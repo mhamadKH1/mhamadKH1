@@ -1,4 +1,6 @@
-### Hi there 👋, I'm mhamadKH1
+### Hi there 👋, I'm mhamad
+
+![Welcome Animation](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) <!-- Example GIF -->
 
 #### About Me
 - 🌱 I’m constantly learning and exploring new technologies.
@@ -38,3 +40,6 @@
 #### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yourprofile)
+
+<!-- Example animated SVG -->
+<img src="https://svgshare.com/i/JuH.svg" width="100" title="hover text">
